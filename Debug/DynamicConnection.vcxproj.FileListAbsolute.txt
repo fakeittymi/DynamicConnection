@@ -1,0 +1,2 @@
+D:\3 курс\ОС\Лаба2\DynamicConnection\Debug\DynamicConnection.exe
+D:\3 курс\ОС\Лаба2\DynamicConnection\Debug\DynamicConnection.pdb
